@@ -1,4 +1,4 @@
-tags$div(id="art_movements", class="carousel slide", `data-ride="carousel", `data-interval="false",
+tags$div(id="art_movements", class="carousel slide", `data-ride`="carousel", `data-interval`="false",
          tags$div(class="carousel-inner", role="listbox",
                   tags$div(class="item", 
                            tags$img(src="https://github.com/gabriel3096/proyecto-R/blob/master/www/images/first_page/romanticism.jpg", class="img-responsive center-block"), 
