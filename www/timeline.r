@@ -1,3 +1,4 @@
+require(shiny)
 tags$div(id="art_movements", class="carousel slide", `data-ride`="carousel", `data-interval`="false",
          tags$div(class="carousel-inner", role="listbox",
                   tags$div(class="item", 
