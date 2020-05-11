@@ -1,0 +1,70 @@
+Origin,Reaction,From,To
+Romanticism,Realism,1,2
+Realism,Impressionism,2,3
+Realism,Expressionism,2,15
+Realism,Social Realism,2,20
+Realism,Harlem Renaissance,2,23
+Impressionism,Post-Impressionism,3,4
+Impressionism,Neo-Impressionism,3,5
+Impressionism,Fauvism,3,6
+Impressionism,Cubism,3,10
+Impressionism,Symbolism,3,11
+Impressionism,Ashcan School,3,9
+Impressionism,Expressionism,3,15
+Symbolism,Post-Impressionism,4,5
+Post-Impressionism,Symbolism,5,4
+Post-Impressionism,Neo-Impressionism,5,6
+Neo-Impressionism,Post-Impressionism,6,5
+Primitivism,Cubism,7,11
+Art Nouveau,Art Deco,8,24
+Ashcan School,Social Realism,9,20
+Fauvism,,10,3
+Cubism,Orphism,11,14
+Cubism,De Stijl,11,13
+Cubism,Art Deco,11,24
+Cubism,Futurism,11,12
+Cubism,Dada,11,18
+Cubism,Suprematism,11,17
+Cubism,Informel,11,25
+Cubism,Op Art,11,31
+Futurism,Art Deco,12,24
+Futurism,Dada,12,18
+Futurism,Surrealism,12,19
+Futurism,Suprematism,12,17
+Futurism,Op Art,12,31
+De Stijl,,13,11
+Orphism,,14,11
+Expressionism,Abstract Expressionism,15,26
+Expressionism,Neo-Expressionism,15,33
+Expressionism,Informel,15,25
+Expressionism,Dada,15,18
+Expressionism,New Objectivity,15,20
+Metaphysical Art,Surrealism,16,19
+Suprematism,,17,11
+Suprematism,,17,12
+Dada,Surrealism,18,19
+Dada,Nouveau Realisme,18,32
+Dada,Pop Art,18,29
+Dada,Op Art,18,31
+Surrealism,Abstract Expressionism,19,26
+Surrealism,Magical Realism,19,22
+Surrealism,,19,26
+Social Realism,,20,20
+New Objectivity,Magical Realism,21,22
+Magical Realism,,22,22
+Harlem Renaissance,Art Deco,23,24
+Art Deco,,24,24
+Informel,Neo-Expressionism,25,33
+Abstract Expressionism,Action Painting,26,27
+Abstract Expressionism,Color Field,26,28
+Abstract Expressionism,Informel,26,25
+Abstract Expressionism,Pop Art,26,29
+Abstract Expressionism,Photorealism,26,30
+Action Painting,,27,27
+Color Field,,28,28
+Pop Art,Photorealism,29,30
+Pop Art,Nouveau Realisme,29,32
+Photorealism,,30,30
+Op Art,,31,31
+Nouveau Realisme,,32,29
+Neo-Expressionism,,33,33
