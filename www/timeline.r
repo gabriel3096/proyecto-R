@@ -29,7 +29,7 @@ Following the explosion of newspaper printing and mass media in the wake of the 
                            tags$div(class="carousel-caption", 
                                     tags$h2("Impressionism"), 
                                     tags$h3("1860"), 
-                                    tags$h4("Luncheon on the Grass - Édouard Manet"), 
+                                    tags$h4("Luncheon on the Grass - Edouard Manet"), 
                                     tags$p("The Impressionists loosened their brushwork and lightened their palettes to include pure, intense colors. They abandoned traditional linear perspective and avoided the clarity of form that had previously served to distinguish the more important elements of a picture from the lesser ones. For this reason, many critics faulted Impressionist paintings for their unfinished appearance and seemingly amateurish quality.
 Picking up on the ideas of Gustave Courbet, the Impressionists aimed to be painters of the real - they aimed to extend the possible subjects for paintings. Getting away from depictions of idealized forms and perfect symmetry, but rather concentrating on the world as they saw it, imperfect in a myriad of ways.
 At the time, there were many ideas of what constituted modernity. Part of the Impressionist idea was to capture a split second of life, an ephemeral moment in time on the canvas: the impression.
